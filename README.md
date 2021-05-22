@@ -2,7 +2,7 @@
 
 # **Weline iOS SDK **Access Guides
 
-<img src="https://github.com/welineio/WelineSDKIOSDemo/blob/main/media/15118397149400/logo.png" alt="图片7" style="float:left;" />
+<img src="media/15118397149400/logo.png" alt="图片7" style="float:left;" />
 
 Secret level: Secret
 
@@ -45,7 +45,7 @@ date | Version | remarks
 2020/09/21|v1.0.6|Add access guide and access process
 2020/11/17|v1.0.7|Add access to SMS verification code interface and partner account verification interface
 2020/12/01|v1.0.8|Add the interface of setting log file storage path and setting log level
-2020/5/17|v2.0.0|Revised
+2020/05/17|v2.0.0|Revised
 
 ## 1.Summary
 
